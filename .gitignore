@@ -1,3 +1,7 @@
+# Test files
+bin/test*
+docs/lecture*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
