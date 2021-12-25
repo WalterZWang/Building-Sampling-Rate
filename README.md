@@ -13,7 +13,7 @@ This study tackles a fundamental but overlooked question in indoor environmental
 
 We found in more than 90% of thermal zones investigated in this study, the highest frequency is less than 1/(60*20) Hz, which means the sampling rate of 10 min is adequate. The validation results show that: when the sampling rate is 10 min, the relative error is smaller than 3% for 47 out of 50 thermal zones; when the sampling rate is 30 min, the relative error is smaller than 4.5% for 48 of thermal zones. We also found the marginal improvement of increasing the sampling rate from every 30 min to every 5 min is not significant. Based on the above analysis, we recommended the sampling rate of 10 min for most indoor environmental monitoring. The sampling rate of 30 min is also acceptable if the energy management of IoT device is a major concern. 
 
-<img src="docs/fig/compare_sampling_rate.png" width="600" />
+<img src="docs/fig/compare_sampling_rate.png" width="450" />
 
 We believe the findings of this study can help design building energy management system and determine battery capability of IoT devices.
 
