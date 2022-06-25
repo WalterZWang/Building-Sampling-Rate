@@ -2,7 +2,7 @@
 
 This is the official repository to determine the suitable sampling rate for building data based on Fourier Analysis and Nyquist-Shannon Sampling Theorem. The details of this work can be found in the following paper:
 
-> *Wang, Z., 2022. How frequent should we measure the indoor thermal enviorment: an investigation based on Fourier Analysis and Nyquist-Shannon Sampling Theorem. Submitted to Applied Energy*
+> *Wang, Z., 2022. How frequent should we measure the indoor thermal enviorment: an investigation based on Fourier Analysis and Nyquist-Shannon Sampling Theorem. Submitted to Building and Environment*
 
 <!--- [[paper]](https://doi.org/10.1016/j.adapen.2021.100061) --->
 
