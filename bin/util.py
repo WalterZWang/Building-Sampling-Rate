@@ -81,7 +81,6 @@ def plot_FS(f, save_fig=False):
 
     # plor error
     axs[2, 1].plot(np.arange(0,w_max), error)
-    axs[2, 1].set_yscale('log')
 
     axs[2, 1].set_xticks([1, 12, 24, 48, 96])
     axs[2, 1].set_xticklabels([24, 2, 1, 0.5, 0.25])
